@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName>Alice</FirstName>
+    <LastName>Smith</LastName>
+    <DateOfBirth>1972-03-16T00:00:00</DateOfBirth>
+  </Person>
+  <Person>
+    <FirstName>Charlie</FirstName>
+    <LastName>Cox</LastName>
+    <DateOfBirth>1984-05-04T00:00:00</DateOfBirth>
+    <Children>
+      <Person>
+        <FirstName>Sally</FirstName>
+        <LastName>Cox</LastName>
+        <DateOfBirth>2000-07-12T00:00:00</DateOfBirth>
+      </Person>
+    </Children>
+  </Person>
+</ArrayOfPerson>

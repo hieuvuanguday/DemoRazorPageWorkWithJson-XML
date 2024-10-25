@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8674C44-2FB9-40E1-9F2A-7EAAAE17D147}|ManageProductsApp\\ManageProductsApp.csproj|d:\\12-cn7\\prn221-fall24\\demoworkwithxmlandjson\\manageproductsapp\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8674C44-2FB9-40E1-9F2A-7EAAAE17D147}|ManageProductsApp\\ManageProductsApp.csproj|solutionrelative:manageproductsapp\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8674C44-2FB9-40E1-9F2A-7EAAAE17D147}|ManageProductsApp\\ManageProductsApp.csproj|d:\\12-cn7\\prn221-fall24\\demoworkwithxmlandjson\\manageproductsapp\\productlist.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8674C44-2FB9-40E1-9F2A-7EAAAE17D147}|ManageProductsApp\\ManageProductsApp.csproj|solutionrelative:manageproductsapp\\productlist.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8674C44-2FB9-40E1-9F2A-7EAAAE17D147}|ManageProductsApp\\ManageProductsApp.csproj|d:\\12-cn7\\prn221-fall24\\demoworkwithxmlandjson\\manageproductsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8674C44-2FB9-40E1-9F2A-7EAAAE17D147}|ManageProductsApp\\ManageProductsApp.csproj|solutionrelative:manageproductsapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8674C44-2FB9-40E1-9F2A-7EAAAE17D147}|ManageProductsApp\\ManageProductsApp.csproj|d:\\12-cn7\\prn221-fall24\\demoworkwithxmlandjson\\manageproductsapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B8674C44-2FB9-40E1-9F2A-7EAAAE17D147}|ManageProductsApp\\ManageProductsApp.csproj|solutionrelative:manageproductsapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductList.json",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\ManageProductsApp\\ProductList.json",
+              "RelativeDocumentMoniker": "ManageProductsApp\\ProductList.json",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\ManageProductsApp\\ProductList.json",
+              "RelativeToolTip": "ManageProductsApp\\ProductList.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T14:24:45.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageProducts.cs",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\ManageProductsApp\\ManageProducts.cs",
+              "RelativeDocumentMoniker": "ManageProductsApp\\ManageProducts.cs",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\ManageProductsApp\\ManageProducts.cs",
+              "RelativeToolTip": "ManageProductsApp\\ManageProducts.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:54:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\ManageProductsApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ManageProductsApp\\MainWindow.xaml",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\ManageProductsApp\\MainWindow.xaml",
+              "RelativeToolTip": "ManageProductsApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T13:48:07.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\ManageProductsApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ManageProductsApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWorkWithXmlAndJson\\ManageProductsApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ManageProductsApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:48:07.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

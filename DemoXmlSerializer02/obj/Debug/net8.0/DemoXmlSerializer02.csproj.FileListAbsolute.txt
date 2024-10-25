@@ -1,0 +1,14 @@
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\bin\Debug\net8.0\DemoXmlSerializer02.exe
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\bin\Debug\net8.0\DemoXmlSerializer02.deps.json
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\bin\Debug\net8.0\DemoXmlSerializer02.runtimeconfig.json
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\bin\Debug\net8.0\DemoXmlSerializer02.dll
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\bin\Debug\net8.0\DemoXmlSerializer02.pdb
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\DemoXmlSerializer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\DemoXmlSerializer02.AssemblyInfoInputs.cache
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\DemoXmlSerializer02.AssemblyInfo.cs
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\DemoXmlSerializer02.csproj.CoreCompileInputs.cache
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\DemoXmlSerializer02.dll
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\refint\DemoXmlSerializer02.dll
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\DemoXmlSerializer02.pdb
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\DemoXmlSerializer02.genruntimeconfig.cache
+D:\12-CN7\PRN221-FALL24\DemoWorkWithXmlAndJson\DemoXmlSerializer02\obj\Debug\net8.0\ref\DemoXmlSerializer02.dll
